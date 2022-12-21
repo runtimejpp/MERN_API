@@ -1,2 +1,1 @@
-# MERN_API
-# MERN-app
+API using the MERN stack credit: Traversty Media 
