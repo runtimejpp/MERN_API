@@ -1,1 +1,1 @@
-API using the mern-track credit: Traversty Media 
+API using the MERN stack credit: Traversty Media 
